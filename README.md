@@ -1,4 +1,4 @@
-# Newtonskool
+# Newtonschool
 
 
 Newtonschool project,assignment
