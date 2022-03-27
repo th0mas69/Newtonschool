@@ -1,0 +1,4 @@
+1. Finding the duplicate element in array.
+2.Finding the missing element in array.
+3.Sorting algorithms and their time and space complexity.
+4.Hashing: Finding the frequency of element in the array.
